@@ -1,3 +1,4 @@
 google-cloud-storage
 cloud-sql-python-connector
 SQLAlchemy
+PyMySQL
